@@ -8,6 +8,12 @@ cascade:
     spotify: "Listen on Spotify Podcasts"
     apple: "Listen on Apple Podcasts"
     youtube: "Watch on YouTube"
+links:
+    spotify: https://open.spotify.com/show/38FtgGDbuNlSsBg
+    apple: https://apple.co/2QA
+    youtube: https://www.youtube.com/playlist?list=PLNbUX8GflEbCIFr
+    rss: /podcast/rss/
+cascade:
   ad:
     graphic: /podcast/images/search-api-graphic.jpg
     url: /search/api/?mtm_campaign=podcast-e%d
@@ -15,11 +21,6 @@ cascade:
       category: Podcast CTAs # do not translate
       action: Search API display ad click # do not translate
       name: Search API display ad # do not translate
-links:
-    spotify: https://open.spotify.com/show/38FtgGDbuNlSs
-    apple: https://apple.co/2QAyR
-    youtube: https://www.youtube.com/playlist?list=PLNbUX8GflEbCIFrL9V
-    rss: /podcast/rss/
 sections:
     hero:
         - We've rebranded!
